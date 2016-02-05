@@ -172,7 +172,7 @@
         1. [发送请求](https://github.com/caixiaojia/javascript-oop/blob/master/ch7/7.6/7.6.1.md)
         2. [处理响应](https://github.com/caixiaojia/javascript-oop/blob/master/ch7/7.6/7.6.2.md)
         3. [A 代表异步](https://github.com/caixiaojia/javascript-oop/blob/master/ch7/7.6/7.6.3.md)
-       4. X 代表XML
+        4. X 代表XML
     7. [总结](https://github.com/caixiaojia/javascript-oop/blob/master/ch7/summary.md)
     
 8. 编程模式和设计模式
