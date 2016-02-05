@@ -13,7 +13,7 @@
         1. [对象](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.1.md)
         1. [类](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.2.md)
         1. [封装](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.3.md)
-        1. [聚合](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.4.md)
+        1. [聚合*](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.4.md)
         1. [继承](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.5.md)
         1. [多态](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.5/1.5.6.md)
     1. [OOP概述](https://github.com/caixiaojia/javascript-oop/blob/master/ch1/1.6/index.md)
