@@ -1,0 +1,20 @@
+#基本数据类型综述
+* javascript有五大基本数据类型
+    * 数字
+    * 字符串
+    * 布尔值
+    * undefined
+    * null
+* 任何不属于基本类型的东西都属于对象
+* 数字类型可以储存的数据包括:正负整数,浮点数,十六进制数字,八进制数字,指数,特殊值NaN,Infinity,-Infinity
+* 字符串储存的是一对引号之间的所有字符
+* 布尔值只有true和false
+* null类型的值只有一个null
+* undefined的值只有一个undefined
+* 绝大部分值转换为布尔类型的时候都为true,以下falsy值除外,没有Infinity
+    * ""
+    * null
+    * undefined
+    * 0
+    * NaN
+    * false
